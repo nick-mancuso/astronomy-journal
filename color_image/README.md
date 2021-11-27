@@ -89,5 +89,4 @@ Star | X coord | Y coord | Blue | Green | Red | Clear |
 
 Graph created from above dataset: https://docs.google.com/spreadsheets/d/e/2PACX-1vTIXcC1rpPx0X8hbgHm-owvCWIqioUfGaR3_suqdyYKKWxx-ez2MK9OPNj5fBKZac8273rW4zvwr7Wn/pubhtml
 
-I found that the two values are very close; I had to use an absolute value function inside of the logarithm since the difference of some of the values
-were negative.
+I found that the two outputs are very close for each star; I had to use an absolute value function inside of the logarithm since the difference of some of the values were negative.
