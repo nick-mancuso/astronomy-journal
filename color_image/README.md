@@ -71,7 +71,7 @@ The entire image has a yellow tint.
 
 The entire image has a red tint.
 
-##
+-------------------------------------
 
 Star | X coord | Y coord | Blue | Green | Red | Clear |
 -----|---------|---------|------|-------|-----|-------|
