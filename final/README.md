@@ -74,3 +74,25 @@ Possible variable stars include:
 [Gaia-DR2-6022729907881436544](Gaia-DR2-6022729907881436544.png)
 
 [PG-1129+373](PG-1129+373.png)
+
+## Color Images
+
+1. Calibrate images for each color, per instructions in the "Image Analysis" lab
+   1. Calibrate each image with master dark, flat, and bias
+   2. Align images
+   3. Gradient correct each image
+   4. Sky background correct each image
+2. Enhance Images, per instructions in the "Image Enhancement" lab
+   1. Square root brightness scaled
+   2. Exponential histogram shaping, with custom values
+3. Combine images for color image, per instructions in "Color Images" lab
+   1. Register and align images
+   2. Join colors
+   3. Create color image, using custom settings
+   4. Clean up using the color image tool:
+      1. Lower saturation a bit
+      2. Increase red value
+
+Result:
+
+![](images/trifid_2.jpg)
