@@ -164,7 +164,3 @@ geological features more prominent.
 > What do you think these filters are designed to enhance?
 
 These filters seem to enhance valleys and channels the most.
-
-## Convolution by Unsharp Masking
-
-TODO: complete this section
