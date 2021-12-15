@@ -121,3 +121,8 @@ of planets and stars are:
 >measurements to explain to the King and Queen that you will not fall off the edge of the earth if you sail
 >west. What arguments would you use to justify this claim?
 
+You could show the the locations of stars change as you approach or leave the
+equator, and that different stars appear from the horizon as you move. This would not be possible if the earth was flat. To the point of the astrolabe -
+you could show that the altitutde of the stars changes as you move towards or away from the equator. Also, you could show that the stars do not track across
+the sky in lines, they do so in arcs. This also shows that the Earth is round,
+and rotates.
