@@ -126,3 +126,11 @@ equator, and that different stars appear from the horizon as you move. This woul
 you could show that the altitutde of the stars changes as you move towards or away from the equator. Also, you could show that the stars do not track across
 the sky in lines, they do so in arcs. This also shows that the Earth is round,
 and rotates.
+
+>Do you think your astrolabe is an accurate measurement tool? Explain.
+
+Absolutely. The astroblabe that we used is a very simple but effective design.
+You must use a substantial enough weight so that the angle is measured
+properly; this and someone to help (by reading the angle before you move the astrolabe)
+goes a long way to providing accurate readings. I checked the given astrolabe
+template against my clinometer, and it gave the same reading for all angles.
